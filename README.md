@@ -1,8 +1,8 @@
 ### Howdy 👋
 #### I’m Abu Shumon, Software Engineer from Helsinki, Finland.
 - 🖥️ Currently working at [Qvik oy](https://qvik.com/)
-- ⚙️ Use these day to day as a SE: `.py`, `.js`, `.yaml`, `VS code`
-- 👀 Interested in `financial and payment` related service design, `data intesive and distributed` system design and implementation.
+- ⚙️ Use these as a SE on a regular basis: `.py`, `.js`, `.yaml`, `VS code`
+- 👀 Interested in `financial/payment/data-intesive/event-driven` related `api/service/system` design and implementation.
 - 🌱 Learning `Competitive programming`, `Leetcode`, `System design`
 - 📫 LinkedIn: [Abu Shumon](https://www.linkedin.com/in/johnshumon)
 - ⚡ Fun fact: 😂
