@@ -1,6 +1,6 @@
 ### Howdy 👋
-#### I’m Abu Shumon, Software Engineer from Helsinki, Finland.
-- 🖥️ Currently working at [Qvik oy](https://qvik.com/)
+#### I’m Abu Shumon, DevOps Engineer from Northeast, England.
+- 🖥️ Currently working at [Amplience](https://amplience.com/)
 - ⚙️ Use these on a regular basis: `.py`, `.js`, `.yaml`, `VS code`
 - 👀 Interested in `financial/payment/data-intesive/event-driven` related `api/service/system` design and implementation.
 - 🌱 Learning `Golang`, `Competitive programming`, `Leetcode`, `System design`
